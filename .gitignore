@@ -1,0 +1,8 @@
+.DS_Store
+v2/.DS_Stor
+zmk
+zmk-dongle-display
+zmk-pmw3610-driver
+modules
+.west
+build

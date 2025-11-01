@@ -1,0 +1,5 @@
+config SHIELD_LOTOM_R
+    def_bool $(shields_list_contains,lotom_R)
+
+config SHIELD_LOTOM_L
+    def_bool $(shields_list_contains,lotom_L)

@@ -1,0 +1,4 @@
+name: lotom
+build:
+  settings:
+    board_root: config

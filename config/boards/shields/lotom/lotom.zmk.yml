@@ -1,0 +1,8 @@
+file_format: "1"
+id: lotom
+name: lotom
+type: shield
+url: https://github.com/pukuhei/lotom.git
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
