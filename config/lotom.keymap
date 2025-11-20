@@ -62,10 +62,10 @@
         SCROLL {
             bindings = <
 &trans      &trans
-&kp ESCAPE  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans      &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&kp F12     &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&kp F12     &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&kp ESCAPE  &kp LS(NUMBER_1)  &kp LS(NUMBER_2)  &kp LS(NUMBER_3)  &kp LS(NUMBER_4)  &kp LS(N5)  &kp RS(NUMBER_6)  &kp RS(N7)  &kp RS(N8)  &kp RS(N9)  &kp RS(N0)  &trans
+&trans      &trans            &trans            &trans            &trans            &trans      &trans            &trans      &trans      &trans      &trans      &trans
+&kp F12     &trans            &trans            &trans            &trans            &trans      &trans            &trans      &trans      &trans      &trans      &trans
+&kp F12     &trans            &trans            &trans            &trans            &trans      &trans            &trans      &trans      &trans
             >;
 
             sensor-bindings = <
